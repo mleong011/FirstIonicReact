@@ -8,11 +8,6 @@
 <img src="ScreenC.png"
      style="float: left; margin-right: 10px;" width="250px" />
 
-<iframe
-  src="/Preview.mov"
-  style="width:100%; height:300px;"
-></iframe>
-
 
 
 ### To run this app on your local machine: 
